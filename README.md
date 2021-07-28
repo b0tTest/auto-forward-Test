@@ -27,20 +27,18 @@ License -> https://github.com/FayasNoushad/Channel-Auto-Post-Bot/blob/main/LICEN
 
 </details>
 
+
 <details>
-  <summary><b>Deploy in your vps</b></summary>
+  <summary><b>Deploy on Heroku²</b></summary>
 <br/>
 
-```sh
-git clone https://github.com/FayasNoushad/Channel-Auto-Post-Bot/tree/main
-cd Channel-Auto-Post-Bot
-pip3 install -r requirements.txt
-# <Create Variables appropriately>
-python3 main.py
-```
+<p align="left">
+  <a href="https://heroku.com/deploy?template=https://github.com/b0tTest/auto-forward-Test">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+</p>
 
 </details>
-
 ---
 
 ## Variables
